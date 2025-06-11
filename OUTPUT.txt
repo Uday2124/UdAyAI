@@ -1,0 +1,6 @@
+| Message                                                        | Expected   |
+| -------------------------------------------------------------- | ---------- |
+| `Hey, are we still meeting today?`                             | ✅ Not Spam |
+| `FREE entry in 2 a weekly competition! Text WIN to 80086 now!` | 🚨 Spam    |
+| `I'll call you when I'm done with work.`                       | ✅ Not Spam |
+| `You have won $1,000,000! Click here to claim.`                | 🚨 Spam    |
